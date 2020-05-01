@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="first">
+        <item>a1</item>
+        <item>b9</item>
+        <item>c10</item>
+        <item>d14</item>
+        <item>e2</item>
+        <item>f15</item>
+        <item>g8</item>
+        <item>h12</item>
+    </string-array>
+    <string-array name="second">
+        <item>20a</item>
+        <item>11b</item>
+        <item>411c</item>
+        <item>15d</item>
+        <item>16e</item>
+        <item>f15</item>
+        <item>22f</item>
+    </string-array>
+</resources>
